@@ -4,7 +4,7 @@
 Clone the repo **inside** your minishell folder 
 ```sh
 cd minishell
-git clone https://github.com/LucasKuhn/minishell_tester.git
+git clone https://github.com/kbly538/minishell_tester.git
 cd minishell_tester
 ```
 
